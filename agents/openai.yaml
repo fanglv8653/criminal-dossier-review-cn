@@ -1,0 +1,4 @@
+interface:
+  display_name: "刑事案件阅卷"
+  short_description: "多卷刑事卷宗索引、OCR、证据框架与质证意见生成工具"
+  default_prompt: "请使用刑事案件阅卷 skill，基于我提供的卷宗路径生成卷宗索引、阅卷报告、证据框架和质证意见。"
